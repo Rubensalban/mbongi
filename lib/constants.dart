@@ -3,10 +3,10 @@ import 'package:flutter/material.dart';
 import 'size_screen.dart';
 
 // Color
-const kPrimaryColor = Color(0xFFC62828);
+const kPrimaryColor = Color(0xFF0277BD);
 const kPrimaryLightColor = Color(0xFFF1E6FF);
 const kPrimaryDarkColor = Color(0x8A000000);
-const kSecondaryColor = Color(0xFFB71C1C);
+const kSecondaryColor = Color(0xFF0277BD);
 const kbrown300 = Color(0xFF8D6E63);
 const kbrown = Color(0xFF795548);
 const kBlack = Color(0xDD000000);
