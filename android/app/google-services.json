@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "701299435098",
+    "project_id": "mbongi-1d48e",
+    "storage_bucket": "mbongi-1d48e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701299435098:android:1f393e62522d094c801a63",
+        "android_client_info": {
+          "package_name": "cg.rbns.mbongi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701299435098-5b98b4dtfq97pn80nkod528hg9v6rl3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX14se7-LQ7uoHiaCQ4QAPDZ62a-na3PM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701299435098-5b98b4dtfq97pn80nkod528hg9v6rl3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
